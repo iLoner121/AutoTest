@@ -6,4 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AutoTestEntity\AutoTestEntity.csproj" />
+    <ProjectReference Include="..\AutoTestLogic\AutoTestLogic.csproj" />
+  </ItemGroup>
+
 </Project>

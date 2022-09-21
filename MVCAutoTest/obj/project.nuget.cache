@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "o4cBx5NcmzZez+JY+XeHtt3UhPaBF6F2sScmwP4SjTKhDCacDE69Xg3mpz3gPyEMBd8aV3vsxB8cU/4jDLUGWg==",
+  "dgSpecHash": "wzaJ3OcPqdruQZviTih6ixBgaeabgoMWqao2GVPwWDhEhDAWzY8DOB/Y9C9ZLPH4V67ZpocjEtXcYmbjf4nLxQ==",
   "success": true,
   "projectFilePath": "E:\\Program\\AutoTest\\MVCAutoTest\\MVCAutoTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\12144\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
